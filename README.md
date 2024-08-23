@@ -1,7 +1,7 @@
 # RFID-smart-door-lock-with-data-logging
 #This contains the description of RFID smart door lock with data logging.
 Overview
-Designed and implemented an RFID-Based door lock system.integrated data logging feature,with data stored and analyzed on Google sheets It is designed to provide secure access using RFID technology, with the added feature of data logging.
+Designed and implemented an RFID-Based door lock system. Integrated data logging feature, with data stored and analysed on Google sheets It is designed to provide secure access using RFID technology, with the added feature of data logging.
 
 Hardware Components
 Esp8266
