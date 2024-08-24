@@ -17,7 +17,7 @@ Designed and implemented an RFID-Based door lock system. Integrated data logging
 - Arduino IDE for Esp8266
 - Google Sheets (for storing data logs)
 
-## First Step: Find the RFID Tag Number
+## First Step:Find the RFID Tag Number
 - Connect the RFID READER RC522 to the ESP8266.
 - Upload a specific code to identify the RFID tag number.
 
